@@ -1,0 +1,10 @@
+{
+  "commitish" : "1.4.3",
+  "iOS" : [
+    {
+      "name" : "Swifter",
+      "hash" : "cfdb07f127769da38b61bf35dc20a7b94d6985f853a17e6e7cc56f825124b50d",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}

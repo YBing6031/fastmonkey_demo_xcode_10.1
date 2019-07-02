@@ -1,0 +1,10 @@
+{
+  "commitish" : "4.2.2",
+  "iOS" : [
+    {
+      "name" : "AEXML",
+      "hash" : "a13ea9ead9a7b0822695dae572d27689ead45fd801fedc10bd6950683a441e55",
+      "swiftToolchainVersion" : "4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+    }
+  ]
+}
